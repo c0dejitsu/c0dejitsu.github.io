@@ -25,4 +25,6 @@ github_username:  c0dejitsu
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 theme: minima
